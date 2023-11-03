@@ -1,4 +1,4 @@
-### To Do list - tRCP 📝
+# To Do list - tRCP 📝
 
 ## This project is an example of Next 14 using server actions, along with tRCP and Prisma ⭐️
 
